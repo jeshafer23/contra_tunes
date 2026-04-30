@@ -46,7 +46,7 @@ Finally, when we look at a "real" piece of music (such as the opening to the tun
 
 ![](dissonance_score_example_combined_0002.png)
 
-Occasionally this is made more complicated by alterations to some of the notes, so that multiple versions of a particular numbers could be present. In the example below, two different forms of scale degrees 3, 5, and 7 are included. Since they still represent the same distance from the reference note, and would tend to be viewed identically in terms of their function, the presentation of data here will generally collapse all different classes of a given scale degree into a single class (in other words, all possible forms of "3" will be just labelled as a "3.")
+Occasionally this is made more complicated by alterations to some of the notes, so that multiple versions of a particular number could be present. In the example below, two different forms of scale degrees 3, 5, and 7 are included. Since they still represent the same distance from the reference note, and would tend to be viewed identically in terms of their function, the presentation of data here will generally collapse all different classes of a given scale degree into a single class (in other words, all possible forms of "3" will be just labelled as a "3.")
 
 ![](dissonance_score_example_altered_tones_0002.png)
 
@@ -446,7 +446,7 @@ Perhaps unsurprisingly given our first set of graphs, the power of the "home" ch
 :::
 
 ::: {.card title="Pairwise dissonance discussion"}
-This graph is constructed similarly to the pairwise average differences, but examines only the scale degrees that are dissonant. As we might expect based on the first two pages and the other pairwise difference graph, we now see a very strong separation between the "home chord" and the other scale degrees. SD 1, 3, and 5, and are all negative (with SD5 being more strongly negative than the others), and SD 2, 4, and 6 are all positive. SD7 is also negative but near 0.
+This graph is constructed similarly to the pairwise average differences, but examines only the scale degrees that are dissonant. As we might expect based on the first two pages and the other pairwise difference graph, we now see a very strong separation between the "home chord" and the other scale degrees. SD 1, 3, and 5 are all negative (with SD 5 being more strongly negative than the others), and SD 2, 4, and 6 are all positive. SD 7 is also negative but near 0.
 
 These results would suggest that dissonance on the "home" chord is treated differently in A vs. B sections. Or, perhaps another way of looking at it, that SD 2, 4, and 6 are more often treated as dissonances in A sections (where, perhaps, the "home" chord is more present), and SD 1, 3, and 5 are more often treated as dissonances in the B sections (where the "home" chord is less common). This has potential to align with the underlying hypothesis, that musical elements which create energy or tension are more likely to happen in the B section.
 
@@ -626,7 +626,7 @@ Finally, we could examine a difference of these proportions, similar to the prev
 ## Row {height=100%}
 
 ::: {.card title="Summary"}
-The data visualization shown in this project has demonstrated differences in dissonance usage in A vs. B sections of contra dance tunes. In this particular dataset, which scale degrees were used as dissonance was the primary area of focus. It was found that although the overall key profile (amount of each scale degree) was very similar in A and B sections, both total average and pairwise comparisons of tunes suggested that individual scales degree behaved differently between different sections of the tunes. In general, scale degrees 1, 3, and 5 were found to behave slightly differently in A sections vs. B sections, and this was found to be true both with averaging the pairwise differences and when accounting for the proportion of dissonant usage of a scale degree vs. the total usage of that same scale degree within a tune (measured in sixteenth notes). In all cases, these differences were relatively small in magnitude, so it remains to be seen whether these differences are statistically significant.
+The data visualization shown in this project has demonstrated differences in dissonance usage in A vs. B sections of contra dance tunes. In this particular dataset, which scale degrees were used as dissonance was the primary area of focus. It was found that although the overall key profile (amount of each scale degree) was very similar in A and B sections, both total average and pairwise comparisons of tunes suggested that individual scale degrees behaved differently between different sections of the tunes. In general, scale degrees 1, 3, and 5 were found to behave slightly differently in A sections vs. B sections, and this was found to be true both with averaging the pairwise differences and when accounting for the proportion of dissonant usage of a scale degree vs. the total usage of that same scale degree within a tune (measured in sixteenth notes). In all cases, these differences were relatively small in magnitude, so it remains to be seen whether these differences are statistically significant.
 :::
 
 ::: {.card title="Further Resources"}
